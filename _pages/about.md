@@ -40,6 +40,10 @@ I earned a **B.Sc. in Computer Science and Engineering** from Rajshahi Universit
 
 With a strong foundation in both theoretical research and practical software development, I have experience spanning from academic research to industry applications. Previously, I served as a Lecturer at [Northern University Bangladesh](https://nub.ac.bd/), where I taught computer science courses and coached competitive programming teams. I also worked as a Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), focusing on AI-powered calm technology R&D, and at [Enosis Solutions](https://www.enosisbd.com/), where my role focused on developing full-stack business-scale web applications.
 
+```text
+Let's make the story awesome!
+```
+
 ## research interests
 
 **Computer Vision**, **Self-Supervised Learning**, **Representation Learning**, **Human-Computer Interaction**, **Vision-Language Models**, **AI in Healthcare**, **Natural Language Processing**
