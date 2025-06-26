@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-31 00:00:00-0000
+date: 2024-06-01 16:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Excited to share that our paper "Self-Supervised Learning for SAR Target Recognition" has been selected as a **Top 5 finalist** for the best paper award at IEEE SoutheastCon 2025! 🏆
+Started my Graduate Research Assistantship at Tuskegee University, working on Computer Vision applications with the NSF AI Institute! 🎓
