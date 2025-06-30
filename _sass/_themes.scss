@@ -121,6 +121,22 @@ html[data-theme="dark"] {
   .only-dark {
     display: block;
   }
+
+  // GitHub icon styling for dark mode
+  .projects {
+    .github-icon {
+      .gh-icon {
+        color: #f8f9fa !important;
+        text-shadow: 0 0 8px rgba(248, 249, 250, 0.6);
+
+        &:hover {
+          color: var(--global-theme-color) !important;
+          text-shadow: 0 0 12px var(--global-theme-color);
+          transform: scale(1.15);
+        }
+      }
+    }
+  }
 }
 
 html[data-theme-setting="dark"] {

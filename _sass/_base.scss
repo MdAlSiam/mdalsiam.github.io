@@ -690,6 +690,19 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+
+  .github-icon {
+    .gh-icon {
+      font-size: 1.2rem;
+      color: #6c757d;
+      transition: all 0.3s ease;
+
+      &:hover {
+        color: var(--global-theme-color);
+        transform: scale(1.1);
+      }
+    }
+  }
 }
 
 // Publications
@@ -737,12 +750,12 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background-color: #007bff !important;
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: white !important;
 
           a {
-            color: white;
+            color: white !important;
 
             &:hover {
               text-decoration: none;
@@ -784,6 +797,15 @@ footer.sticky-bottom {
             color: var(--global-text-color);
             border-bottom: 1px dashed var(--global-text-color);
           }
+        }
+      }
+
+      .periodical {
+        color: var(--global-theme-color);
+        font-style: italic;
+
+        .venue-year {
+          color: var(--global-text-color);
         }
       }
 
