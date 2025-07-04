@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Experienced researcher and software engineer with expertise in computer vision, self-supervised learning, and deep learning applications. Currently pursuing MSc in Electrical Engineering at Tuskegee University with focus on AI and machine learning.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/misc/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
