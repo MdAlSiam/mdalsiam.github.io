@@ -1,103 +1,36 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Md Al Siam
-    - name: Email
-      value: msiam0229@tuskegee.edu
-    - name: Location
-      value: Tuskegee, AL, USA
-    - name: Research Focus
-      value: Computer Vision, Self-Supervised Learning, Deep Learning
-
 - title: Education
   type: time_table
   contents:
     - title: MSc in Electrical Engineering (Thesis-Based)
       institution: Tuskegee University, AL, USA
       year: 2024 - 2026
-      description:
-        - "Current CGPA: 4.00/4.00"
-        - "Research Focus: Self-Supervised Learning for Computer Vision Applications"
-        - "Advisor: Dr. Dewan Fahim Noor"
-        - "Collaboration: NSF AI Institute for Artificial and Natural Intelligence (ARNI)"
-        - "Relevant Coursework: Advanced Machine Learning, Digital Signal Processing, Mathematical Methods for Engineering"
+
     - title: BSc in Computer Science & Engineering
       institution: Rajshahi University of Engineering & Technology (RUET), Bangladesh
       year: 2017 - 2022
-      description:
-        - "Senior Thesis: Deep Learning Approaches for Human Action Recognition"
-        - "Relevant Coursework: Data Structures & Algorithms, Machine Learning, Computer Vision, Database Systems, Software Engineering, Discrete Mathematics"
 
-- title: Research Experience
+- title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: Tuskegee University, Tuskegee, AL
       year: 2024 - Present
-      description:
-        - "Developed novel self-supervised learning frameworks for SAR (Synthetic Aperture Radar) target recognition"
-        - "Designed multi-task pretext training methodologies to improve representation learning"
-        - "Achieved Top 5 finalist recognition for best paper award at IEEE SoutheastCon 2025"
-        - "Worked on domain adaptation techniques for cross-modal learning between optical and radar imagery"
-    - title: AI Research Assistant (Part-time)
-      institution: MyMedicalHub International Ltd, Dhaka, Bangladesh
-      year: 2020 - 2022
-      description:
-        - "Researched musculoskeletal pattern analysis and range of motion assessment using computer vision"
-        - "Developed state-of-the-art pose estimation models for healthcare applications with 50% performance improvement"
-        - "Created novel geometric algorithms for angle measurement using OpenCV"
-        - "Proposed two ML-based gait abnormality detection frameworks and initiated Intelligent Gait and Balance System project"
-        - "Filed patents for research outcomes and published in high-impact journals"
 
-- title: Industry Experience
-  type: time_table
-  contents:
     - title: Software Engineer
       institution: Samsung R&D Institute Bangladesh Ltd, Dhaka, Bangladesh
       year: 2024
-      description:
-        - "Researched calm technology and AI applications for Samsung SmartThings ecosystem"
-        - "Collaborated with cross-functional teams on next-generation smart home technologies"
-    - title: Software Engineer
-      institution: Enosis Solutions, Dhaka, Bangladesh
-      year: 2022 - 2023
-      description:
-        - "Developed full-stack web applications using ASP.NET, AngularJS, JavaScript, and MSSQL"
-        - "Performed requirements analysis, implementation, and testing for enterprise-level applications"
-        - "Debugged and optimized existing systems, improving overall performance and stability"
 
-- title: Teaching Experience
-  type: time_table
-  contents:
     - title: Lecturer in Computer Science & Engineering
       institution: Northern University Bangladesh, Dhaka, Bangladesh
       year: 2023
-      description:
-        - "Courses Taught: Data Structures, Object-Oriented Programming, Database Management Systems, Discrete Mathematics"
-        - "Mentored competitive programming teams; one team qualified for ICPC Dhaka Regional 2023"
-        - "Supervised software development capstone projects with emphasis on research-driven solutions"
-        - "Developed innovative teaching methodologies for complex algorithmic concepts"
 
-- title: Publications
-  type: time_table
-  contents:
-    - title: "Self-Supervised Learning for SAR Target Recognition with Multi-Task Pretext Training"
-      institution: IEEE SoutheastCon 2025
-      year: 2025
-      description:
-        - "<strong>Top 5 Best Paper Finalist</strong>"
-        - "Authors: Al Siam, Md and Dewan Fahim Noor"
-    - title: "Deep Learning Based Air-Writing Recognition with the Choice of Proper Interpolation Technique"
-      institution: Sensors (MDPI)
-      year: 2021
-      description:
-        - "Authors: Abir, F.A., Siam, M.A., Sayeed, A., Hasan, M.A.M., & Shin, J."
-    - title: "Gait Recognition With Wearable Sensors Using Modified Residual Block-Based Lightweight CNN"
-      institution: IEEE Access
-      year: 2022
-      description:
-        - "Authors: Hasan, M.A.M., Al Abir, F., Al Siam, M., & Shin, J."
+    - title: Software Engineer
+      institution: Enosis Solutions, Dhaka, Bangladesh
+      year: 2022 - 2023
+
+    - title: AI Research Assistant (Part-time)
+      institution: MyMedicalHub International Ltd, Dhaka, Bangladesh
+      year: 2020 - 2022
 
 - title: Honors and Awards
   type: time_table
@@ -118,32 +51,7 @@
       items:
         - General and Talentpool Scholarships in Secondary Education
 
-- title: Technical Skills
-  type: nested_list
+- title: Reserch Statement
+  type: text
   contents:
-    - title: Programming
-      items:
-        - Python, C/C++, JavaScript, SQL, C#
-    - title: AI/ML Frameworks
-      items:
-        - TensorFlow, Keras, PyTorch, OpenCV
-    - title: Web Development
-      items:
-        - Django REST Framework, ASP.NET, Javascript, Typescript
-    - title: Cloud Platforms
-      items:
-        - AWS (EC2, S3), Azure
-    - title: Tools
-      items:
-        - Git, Postman, Jira, LaTeX, Linux
-
-- title: Research Interests
-  type: list
-  contents:
-    - Computer Vision
-    - Self-Supervised Learning
-    - Representation Learning
-    - Human-Computer Interaction
-    - Vision-Language Models
-    - AI in Healthcare
-    - Natural Language Processing
+    - "My research focuses on developing robust and efficient deep learning models that can learn meaningful representations with minimal supervision. I am particularly interested in bridging the gap between computer vision and other modalities through self-supervised learning approaches. My long-term goal is to create AI systems that can understand and interact with the world through multiple sensory inputs, with applications in healthcare, autonomous systems, and human-computer interaction."
