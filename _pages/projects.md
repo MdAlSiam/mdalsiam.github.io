@@ -48,8 +48,8 @@ horizontal: false
           {% if project.show_learn_more %}<a href="{{ project.url | relative_url }}" class="btn btn-outline-danger btn-lg mr-2">Learn More <i class="fas fa-arrow-right ml-2"></i></a>{% endif %}
 
           {% if project.title contains "Self-Supervised Learning for SAR Target Recognition with Multi-Task Pretext Training" %}
-            <a href="https://github.com/MdAlSiam/ssl-sar-atr/" target="_blank" class="btn btn-outline-dark btn-lg mr-2"><i class="fab fa-github mr-2"></i>Code</a>
-            <a href="https://ieeexplore.ieee.org/document/10971440" target="_blank" class="btn btn-outline-primary btn-lg"><i class="fas fa-file-pdf mr-2"></i>Paper</a>
+            <a href="https://ieeexplore.ieee.org/document/10971440" target="_blank" class="btn btn-outline-primary btn-lg mr-2"><i class="fas fa-file-pdf mr-2"></i>Paper</a>
+            <a href="https://github.com/MdAlSiam/ssl-sar-atr/" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fab fa-github mr-2"></i>Code</a>
           {% elsif project.title contains "Air-Writing" %}
             <a href="https://doi.org/10.3390/s21248407" target="_blank" class="btn btn-outline-primary btn-lg"><i class="fas fa-file-pdf mr-2"></i>Paper</a>
           {% else %}

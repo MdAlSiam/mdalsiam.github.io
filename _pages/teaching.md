@@ -53,7 +53,7 @@ nav_order: 3
   <div class="row mt-5 mb-5 teaching-entry">
     <!-- Teaching Image -->
     <div class="col-md-4 d-flex align-items-center">
-      <img src="https://scontent.fcps3-1.fna.fbcdn.net/v/t39.30808-6/496945278_9524604707666497_8693913348432016951_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=2uYcVWgP9T0Q7kNvwHSs6XA&_nc_oc=Adkba5rzde5PkbI0serRRdrX12q_PkYplhRl8wBhd2wERJ0lT7MkIhGIgUtJP4lksz16zpNNq0QQ6sCidk41HEnc&_nc_zt=23&_nc_ht=scontent.fcps3-1.fna&_nc_gid=GlL_UV1F1QwqF6sY3myhug&oh=00_AfMLbXRq_Wy_1HSGDYWc3f6MvObII8UAA89tZONuCRO7tQ&oe=6867F24B" class="img-fluid rounded shadow-sm mx-auto d-block" alt="NUB Teaching" style="max-height: 250px; object-fit: cover; transition: transform 0.3s ease;">
+      <img src="{{ '/assets/img/bubt-icpc-reg.jpg' | relative_url }}" class="img-fluid rounded shadow-sm mx-auto d-block" alt="NUB Teaching" style="max-height: 250px; object-fit: cover; transition: transform 0.3s ease;">
     </div>
 
     <!-- Teaching Description -->
@@ -137,7 +137,7 @@ nav_order: 3
   <div class="row mt-5 mb-5 teaching-entry">
     <!-- Teaching Image -->
     <div class="col-md-4 d-flex align-items-center">
-      <img src="https://scontent.fcps3-1.fna.fbcdn.net/v/t1.6435-9/66050889_2134779056649136_2186419755626266624_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=4kb7jGOR5-IQ7kNvwH_LQp9&_nc_oc=Adk0pD2jpYcb5YsGTz9kHJlJfaqJqiDrHr1XzjhBQ4KQBwrN4pLYTqVbokA0q55BsR0mmUB0S-yFGeCNZMvNIFRn&_nc_zt=23&_nc_ht=scontent.fcps3-1.fna&_nc_gid=MJ9vG4UkAJezzFUqMqXdlw&oh=00_AfOZint6JSW9LfaAJLXYCT1zHWAbknGy5F68bMYRW8zd6g&oe=688980F7" class="img-fluid rounded shadow-sm mx-auto d-block" alt="RUET Mentorship" style="max-height: 250px; object-fit: cover; transition: transform 0.3s ease;">
+      <img src="{{ '/assets/img/ruet-technocracy.jpg' | relative_url }}" class="img-fluid rounded shadow-sm mx-auto d-block" alt="RUET Mentorship" style="max-height: 250px; object-fit: cover; transition: transform 0.3s ease;">
     </div>
 
     <!-- Teaching Description -->
@@ -182,7 +182,7 @@ nav_order: 3
 
 
 <!-- Impact & Recognition Section -->
-<div class="row mt-5 mb-5">
+<!-- <div class="row mt-5 mb-5">
   <div class="col-12">
     <h2 class="text-center mb-4" style="color: var(--global-theme-color);">Teaching Impact & Recognition</h2>
     <div class="row">
@@ -232,7 +232,7 @@ nav_order: 3
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 </div>
 
