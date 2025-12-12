@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-more",
           title: "more",
           description: "Experienced researcher and software engineer with expertise in computer vision, self-supervised learning, and deep learning applications. Currently pursuing MSc in Electrical Engineering at Tuskegee University with focus on AI and machine learning.",
@@ -55,6 +62,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-presented-our-paper-self-supervised-learning-for-sar-target-recognition-as-a-top-5-finalist-for-the-best-paper-award-at-ieee-southeastcon-2025",
           title: 'Presented our paper “Self-Supervised Learning for SAR Target Recognition” as a Top 5...',
+          description: "",
+          section: "News",},{id: "news-presented-poster-on-advancing-sar-target-recognition-through-self-supervised-learning-a-vision-for-enhanced-atr-system-at-amazon-aws-mlu-ai-ml-teaching-amp-amp-research-symposium-student-poster-session-2025-amazon-hq2-arlington-va",
+          title: 'Presented poster on “Advancing SAR Target Recognition through Self-supervised Learning: A Vision for...',
+          description: "",
+          section: "News",},{id: "news-presented-my-research-progress-of-last-year-at-the-nsf-ai-institute-for-artificial-and-natural-intelligence-annual-retreat-2025-at-columbia-university",
+          title: 'Presented my research progress of last year at the NSF AI Institute for...',
           description: "",
           section: "News",},{id: "projects-deep-learning-based-air-writing-recognition-with-the-choice-of-proper-interpolation-technique",
           title: 'Deep Learning Based Air-Writing Recognition with the Choice of Proper Interpolation Technique',
