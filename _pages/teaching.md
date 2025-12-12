@@ -26,14 +26,15 @@ nav_order: 3
         <h3 class="mb-3 teaching-title">Graduate Teaching Assistant</h3>
         <div class="mb-3">
           <span class="badge badge-primary px-3 py-2">Tuskegee University</span>
-          <span class="badge badge-secondary px-3 py-2">Summer 2024, Summer 2025</span>
+          <span class="badge badge-secondary px-3 py-2">Summer 2024, Summer 2025, Fall 2025</span>
         </div>
         <p class="text-muted mb-4 teaching-description">
-          Contributing to innovative STEM education initiatives in the ECE Department AI/Communication Lab supervised by Dr. Dewan Fahim Noor. Leading the Mentoring Into Engineering I (MITE I) outreach program, developing hands-on Arduino experiments for high school students, and designing AI/ML educational content.
+          Contributing to innovative STEM education initiatives in the ECE Department AI/Communication Lab supervised by Dr. Dewan Fahim Noor. Assisting undergraduate students in cybersecurity engineering practical coursework. Additionally, leading the Mentoring Into Engineering I (MITE I) outreach program, developing hands-on Arduino experiments for high school students, and designing AI/ML educational content.
         </p>
         <div class="teaching-highlights mb-4">
           <h6 class="text-primary mb-2">Key Responsibilities:</h6>
           <ul class="list-unstyled">
+            <li><i class="fas fa-check-circle text-success mr-2"></i>Assisted 15+ undergraduate students in COEG 456: Cybersecurity Engineering Practical</li>
             <li><i class="fas fa-check-circle text-success mr-2"></i>Designed progressive Arduino experiments covering embedded programming, sensor integration, and human-machine interfaces; and hands-on AI/ML educational modules including pattern recognition and decision tree algorithms</li>
             <li><i class="fas fa-check-circle text-success mr-2"></i>Coached student teams through engineering design process, circuit assembly, and troubleshooting</li>
             <li><i class="fas fa-check-circle text-success mr-2"></i>Developed educational materials and laboratory infrastructure supporting 30+ participants</li>

@@ -3,8 +3,7 @@ layout: cv
 permalink: /misc/
 title: more
 nav: true
-nav_order: 4
-cv_pdf: https://media.licdn.com/dms/document/media/v2/D562DAQEL8XuTWPnhGA/profile-treasury-document-pdf-analyzed/B56ZgvI67RH0As-/0/1753137526464?e=1753920000&v=beta&t=CC0mAzKtx99PyNMv1PwOJjUV8P_8Cg5I_5zbeNobdz0 # you can also use external links here
+nav_order: 6
 description: Experienced researcher and software engineer with expertise in computer vision, self-supervised learning, and deep learning applications. Currently pursuing MSc in Electrical Engineering at Tuskegee University with focus on AI and machine learning.
 toc:
   sidebar: left

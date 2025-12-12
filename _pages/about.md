@@ -34,9 +34,9 @@ latest_posts:
 
 I am a Graduate Research Assistant at Tuskegee University, pursuing an MSc in Electrical Engineering with a focus on **Computer Vision** and **Artificial Intelligence**.
 
-Currently, I am working on **Representation Learning** applications in **Computer Vision**, collaborating with the [NSF AI Institute for Artificial and Natural Intelligence](https://arni-institute.org/), advised by [Dr. Dewan Fahim Noor](https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering/ee-faculty-staff/dewan-noor). My work aims to advance the field of self-supervised learning for practical computer vision applications.
+Currently, I am working on **Representation Learning** applications in **Computer Vision**, collaborating with the [NSF AI Institute for Artificial and Natural Intelligence](https://arni-institute.org/), advised by [Dr. Dewan Fahim Noor](https://scholar.google.com/citations?user=cK8wY6cAAAAJ&hl=en). My work aims to advance the field of self-supervised learning for practical computer vision applications.
 
-I earned a **B.Sc. in Computer Science and Engineering** from Rajshahi University of Engineering and Technology where I worked with [Prof. Dr. Md Al Mehedi Hasan](https://scholar.google.com/citations?user=kMspjFIAAAAJ&hl=en), [Abu Sayeed](https://www.cse.ruet.ac.bd/abusayeedcse), and [Prof. Dr. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html) (University of Aizu, Japan). My junior and senior year thesis and internships focused on **developong efficient DL models for gesture and gait recognition**.
+I earned a **B.Sc. in Computer Science and Engineering** from Rajshahi University of Engineering and Technology where I worked with [Prof. Dr. Md Al Mehedi Hasan](https://scholar.google.com/citations?user=kMspjFIAAAAJ&hl=en), [Abu Sayeed](https://www.cse.ruet.ac.bd/abusayeedcse), and [Prof. Dr. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html) (University of Aizu, Japan). My junior and senior year thesis and internships focused on **developing efficient deep learning models for gesture and gait recognition**.
 
 With a strong foundation in both theoretical research and practical software development, I have experience spanning from academic research to industry applications. Previously, I served as a Lecturer at [Northern University Bangladesh](https://nub.ac.bd/), where I taught computer science courses and coached competitive programming teams. I also worked as a Software Engineer at [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd), focusing on AI-powered calm technology R&D, and at [Enosis Solutions](https://www.enosisbd.com/), where my role focused on developing full-stack business-scale web applications.
 
@@ -47,7 +47,7 @@ Imagine a world where good things will be fun to do only beacuse they are cool
 <div style="background-color: var(--global-card-bg-color); border-left: 4px solid var(--global-theme-color); padding: 12px 16px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="color: var(--global-theme-color);">
     <div style="font-weight: 600;">
-      🎓 Seeking PhD opportunities (Fall 2026) in Computer Vision, ML, NLP, HCI, and related interdisciplinary research areas.
+      🎓 Seeking PhD opportunities (Fall 2026) in Artificial Intelligence, Multimodal AI Systems, Computer Vision, Self-supervised Learning, Human-Computer Interaction, Healthcare AI, and Vision-Language Models.
     </div>
     <div style="font-weight: normal; margin-top: 4px; margin-left: 1.6em; color: var(--global-text-color);">
       Currently based in the US. Let's connect if there's potential alignment.
@@ -57,12 +57,11 @@ Imagine a world where good things will be fun to do only beacuse they are cool
 
 ## research interests
 
-**Computer Vision**, **Self-Supervised Learning**, **Representation Learning**, **Human-Computer Interaction**, **Vision-Language Models**, **AI in Healthcare**, **Natural Language Processing**
+**Artificial Intelligence**, **Multimodal AI Systems**, **Computer Vision**, **Self-supervised Learning**, **Human-Computer Interaction**, **Healthcare AI**, **Vision-Language Models**
 
-## technical expertise
+## technical skills
 
-- **Programming**: Python, C/C++, JavaScript, SQL, C#
-- **AI/ML Frameworks**: TensorFlow, Keras, PyTorch, OpenCV
-- **Web Development**: Django REST Framework, ASP.NET, Javascript, Typescript
-- **Cloud Platforms**: AWS (EC2, S3), Azure
-- **Tools**: Git, Postman, Jira, LaTeX, Linux
+- **Programming**: Python, C/C++, Java, C#, SQL
+- **AI/ML**: PyTorch, TensorFlow, Keras, OpenCV
+- **Web**: Django REST Framework, JavaScript, TypeScript, ASP.NET, HTML, CSS, MSSQL
+- **Others**: Linux, LaTeX, Git/GitHub, AWS (EC2, S3), Azure, Jira
