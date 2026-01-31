@@ -36,7 +36,7 @@ horizontal: false
         <div class="mb-3">
           {% if project.title contains "Air-Writing" %}
             <span class="badge badge-success px-3 py-2">Rajshahi University of Engineering & Technology</span>
-          {% elsif project.title contains "Self-Supervised Learning for SAR Target Recognition with Multi-Task Pretext Training" %}
+          {% elsif project.title contains "SAR Target Recognition" %}
             <span class="badge badge-primary px-3 py-2">Tuskegee University</span>
           {% else %}
             <span class="badge badge-danger px-3 py-2">MyMedicalHUB Corp., FL, USA</span>
@@ -47,7 +47,10 @@ horizontal: false
           <!-- To add Learn More button later, uncomment the line below and add 'show_learn_more: true' to project front matter -->
           {% if project.show_learn_more %}<a href="{{ project.url | relative_url }}" class="btn btn-outline-danger btn-lg mr-2">Learn More <i class="fas fa-arrow-right ml-2"></i></a>{% endif %}
 
-          {% if project.title contains "Self-Supervised Learning for SAR Target Recognition with Multi-Task Pretext Training" %}
+          {% if project.title contains "Advancing SAR Target Recognition" %}
+            <a href="https://www.mdpi.com/1424-8220/26/1/122" target="_blank" class="btn btn-outline-primary btn-lg mr-2"><i class="fas fa-file-pdf mr-2"></i>Paper</a>
+            <a href="https://github.com/MdAlSiam/ssl-sar-atr-2-v2/" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fab fa-github mr-2"></i>Code</a>
+          {% elsif project.title contains "Self-Supervised Learning for SAR Target Recognition with Multi-Task Pretext Training" %}
             <a href="https://ieeexplore.ieee.org/document/10971440" target="_blank" class="btn btn-outline-primary btn-lg mr-2"><i class="fas fa-file-pdf mr-2"></i>Paper</a>
             <a href="https://github.com/MdAlSiam/ssl-sar-atr/" target="_blank" class="btn btn-outline-dark btn-lg"><i class="fab fa-github mr-2"></i>Code</a>
           {% elsif project.title contains "Air-Writing" %}

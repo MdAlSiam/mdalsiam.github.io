@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tuskegee.edu/programs-courses/colleges-schools/coe/electrical-engineering'>ECE Department</a>, Tuskegee University, Tuskegee, AL
+subtitle: <a href='https://www.tuskegee.edu/academics/colleges-schools/coe/elec-comp-engineering/elec-comp-engineering.html'>ECE Department</a>, Tuskegee University, Tuskegee, AL
 
 profile:
   align: right
@@ -34,7 +34,7 @@ latest_posts:
 
 I am a Graduate Research Assistant at Tuskegee University, pursuing an MSc in Electrical Engineering with a focus on **Computer Vision** and **Artificial Intelligence**.
 
-Currently, I am working on **Representation Learning** applications in **Computer Vision**, collaborating with the [NSF AI Institute for Artificial and Natural Intelligence](https://arni-institute.org/), advised by [Dr. Dewan Fahim Noor](https://scholar.google.com/citations?user=cK8wY6cAAAAJ&hl=en). My work aims to advance the field of self-supervised learning for practical computer vision applications.
+Currently, I am working on **Representation Learning** applications in **Computer Vision**, collaborating with the [NSF AI Institute for Artificial and Natural Intelligence](https://arni-institute.org/), advised by [Dr. Dewan Fahim Noor](https://scholar.google.com/citations?user=cK8wY6cAAAAJ&hl=en) and [Dr. Mandoye Ndoye](https://scholar.google.com/citations?user=z2M6IiMAAAAJ&hl=en). My work aims to advance the field of self-supervised learning for practical computer vision applications.
 
 I earned a **B.Sc. in Computer Science and Engineering** from Rajshahi University of Engineering and Technology where I worked with [Prof. Dr. Md Al Mehedi Hasan](https://scholar.google.com/citations?user=kMspjFIAAAAJ&hl=en), [Abu Sayeed](https://www.cse.ruet.ac.bd/abusayeedcse), and [Prof. Dr. Jungpil Shin](https://u-aizu.ac.jp/labs/is-pp/pplab/shin.html) (University of Aizu, Japan). My junior and senior year thesis and internships focused on **developing efficient deep learning models for gesture and gait recognition**.
 
@@ -57,7 +57,7 @@ Imagine a world where good things will be fun to do only beacuse they are cool
 
 ## research interests
 
-**Artificial Intelligence**, **Multimodal AI Systems**, **Computer Vision**, **Self-supervised Learning**, **Human-Computer Interaction**, **Healthcare AI**, **Vision-Language Models**
+**Self-Supervised and Data-Efficient Representation Learning**; **Robust and Trustworthy Systems**; **Multimodal Learning across Vision, Language, and Sensor Modalities**; **Human-Centered AI for Healthcare Applications**
 
 ## technical skills
 
