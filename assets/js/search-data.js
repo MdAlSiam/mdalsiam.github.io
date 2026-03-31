@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-more",
-          title: "more",
-          description: "Experienced researcher and software engineer with expertise in computer vision, self-supervised learning, and deep learning applications. Currently pursuing MSc in Electrical Engineering at Tuskegee University with focus on AI and machine learning.",
+        },{id: "nav-accolades",
+          title: "accolades",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/misc/";
+            window.location.href = "/accolades/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -74,6 +74,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-layer-wise-feature-analysis-for-self-supervised-sar-target-recognition-identifying-optimal-representations-across-data-regimes-has-been-accepted-for-presentation-at-southeastcon-2026-track-4-signal-and-image-processing",
           title: '📝 Our paper “Layer-Wise Feature Analysis for Self-Supervised SAR Target Recognition: Identifying Optimal...',
+          description: "",
+          section: "News",},{id: "news-honored-to-share-that-my-paper-layer-wise-feature-analysis-for-self-supervised-sar-target-recognition-identifying-optimal-representations-across-data-regimes-was-named-a-best-paper-finalist-for-the-ieee-hkn-best-student-paper-award-at-ieee-southeastcon-2026-out-of-all-submissions-to-this-year-s-conference-our-work-was-identified-as-one-of-three-exceptional-papers-and-i-had-the-privilege-of-presenting-it-at-the-ieee-hkn-special-session-photos-on-linkedin",
+          title: '🏆 Honored to share that my paper “Layer-Wise Feature Analysis for Self-Supervised SAR...',
           description: "",
           section: "News",},{id: "projects-deep-learning-based-air-writing-recognition-with-the-choice-of-proper-interpolation-technique",
           title: 'Deep Learning Based Air-Writing Recognition with the Choice of Proper Interpolation Technique',
