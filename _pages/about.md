@@ -44,24 +44,7 @@ With a strong foundation in both theoretical research and practical software dev
 Imagine a world where good things will be fun to do only beacuse they are cool
 ```
 
-<div style="background-color: var(--global-card-bg-color); border-left: 4px solid var(--global-theme-color); padding: 12px 16px; margin: 20px 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-  <div style="color: var(--global-theme-color);">
-    <div style="font-weight: 600;">
-      🎓 Seeking PhD opportunities (Fall 2026) in Artificial Intelligence, Multimodal AI Systems, Computer Vision, Self-supervised Learning, Human-Computer Interaction, Healthcare AI, and Vision-Language Models.
-    </div>
-    <div style="font-weight: normal; margin-top: 4px; margin-left: 1.6em; color: var(--global-text-color);">
-      Currently based in the US. Let's connect if there's potential alignment.
-    </div>
-  </div>
-</div>
-
 ## research interests
 
 **Self-Supervised and Data-Efficient Representation Learning**; **Robust and Trustworthy Systems**; **Multimodal Learning across Vision, Language, and Sensor Modalities**; **Human-Centered AI for Healthcare Applications**
 
-## technical skills
-
-- **Programming**: Python, C/C++, Java, C#, SQL
-- **AI/ML**: PyTorch, TensorFlow, Keras, OpenCV
-- **Web**: Django REST Framework, JavaScript, TypeScript, ASP.NET, HTML, CSS, MSSQL
-- **Others**: Linux, LaTeX, Git/GitHub, AWS (EC2, S3), Azure, Jira

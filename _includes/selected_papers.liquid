@@ -1,3 +1,9 @@
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+<style>
+  .latest-publications .bibliography > li:nth-child(n + 4) {
+    display: none;
+  }
+</style>
+
+<div class="publications latest-publications">
+  {% bibliography --group_by none --query @* --sort_by year --order descending %}
 </div>

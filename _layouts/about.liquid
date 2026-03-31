@@ -42,9 +42,10 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">latest news</a>
-      </h2>
+      <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px;">
+        <h2 style="margin-bottom: 0;">latest news</h2>
+        <a href="{{ '/news/' | relative_url }}" style="color: #0d6efd; font-size: 0.9rem;">more news</a>
+      </div>
       {% include news.liquid limit=true %}
     {% endif %}
 
@@ -60,9 +61,10 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">selected publications</a>
-      </h2>
+      <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px;">
+        <h2 style="margin-bottom: 0;">latest publications</h2>
+        <a href="{{ '/publications/' | relative_url }}" style="color: #0d6efd; font-size: 0.9rem;">more publications</a>
+      </div>
       {% include selected_papers.liquid %}
     {% endif %}
 

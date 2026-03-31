@@ -36,21 +36,28 @@
       institution: MyMedicalHub International Ltd, Dhaka, Bangladesh
       year: 2020 - 2022
 
-- title: Honors and Awards
+- title: Accolades
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - IEEE SoutheastCon 2026 Best Paper Award Finalist (Top 3), Huntsville, AL
     - year: 2025
       items:
-        - IEEE SoutheastCon 2025 Best Paper Award Finalist (Top 5)
+        - Presenter at AWS-MLU AI/ML Student Poster Session 2025, Amazon HQ2 (Arlington, VA)
+        - IEEE SoutheastCon 2025 Best Paper Award Finalist (Top 5), Charlotte, NC
     - year: 2024
       items:
-        - Master's Graduate Assistantship, ECE Department, Tuskegee University
-    - year: 2017
-      items:
-        - 8th Position in Talentpool Scholarship by Bangladesh Government (among 1M+ students)
+        - Master's Graduate Scholarship ($76,000), ECE Department, Tuskegee University
     - year: 2019
       items:
-        - 8th Place, VU CSE Tech Fest Inter-University Programming Contest (43 teams)
+        - "8th Place among 43 teams in VU CSE Tech Fest: National Level Inter-University Programming Contest"
+    - year: 2018 - 2022
+      items:
+        - "Competitive Programming: Contested in 150+ rated contests on CodeForces (Max Rating: Specialist, 1443). Multiple top-20 finishes in national-level inter-university programming contests"
+    - year: 2017
+      items:
+        - 8th Position among 1M+ students in Higher Secondary Talentpool Scholarship by Bangladesh Government
     - year: 2014, 2011
       items:
         - General and Talentpool Scholarships in Secondary Education
