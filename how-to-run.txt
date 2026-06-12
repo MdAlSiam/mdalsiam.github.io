@@ -1,0 +1,11 @@
+Initial Run
+-----------
+
+
+python3 -m venv .portfolioenv
+source .portfolioenv/bin/activate
+pip install -r requirements.txt
+bundle install
+pip install jupyter
+
+bundle exec jekyll serve
